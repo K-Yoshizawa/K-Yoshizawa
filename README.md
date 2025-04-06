@@ -1,7 +1,7 @@
-<a href="https://github.com/tocoteron">
+<a href="https://github.com/K-Yoshizawa">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=K-Yoshizawa&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/tocoteron">
+<a href="https://github.com/K-Yoshizawa">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Yoshizawa&layout=compact&theme=dark" />
 </a>
 
