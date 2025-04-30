@@ -23,7 +23,7 @@
 
 <!-- Metrics ダッシュボード -->
 <p align="center">
-  <img src="https://github.com/K-Yoshizawa/metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github.com/K-Yoshizawa/metrics/blob/master/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
