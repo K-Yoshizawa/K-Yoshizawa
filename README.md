@@ -26,26 +26,3 @@
 <img src="https://github.com/K-Yoshizawa/metrics/blob/master/github-metrics-2.svg" alt="GitHub Metrics" width="100%"  />
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=K-Yoshizawa&theme=onedark&column=4&margin-w=10&margin-h=15" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=K-Yoshizawa&count_private=true&show_icons=true&theme=dark" />
-</p>
-
----
-
-## 📈 Languages Bar Chart
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Yoshizawa&layout=compact&theme=dark" />
-</p>
-
