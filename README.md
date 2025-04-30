@@ -1,30 +1,53 @@
 # log_K / lX57
 
-[![lX57](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FlX57)](https://atcoder.jp/users/lX57)
-[![log_K](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Flog_K)](https://codeforces.com/profile/log_K)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programmer;Software+Engineer+in+training;C%2B%2B+%7C+Python+Lover" alt="Typing SVG" />
+</p>
 
-[Portfolio](https://logk-portfolio.vercel.app/)
+<p align="center">
+  <a href="https://atcoder.jp/users/lX57">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FlX57" alt="AtCoder Rating Badge" />
+  </a>
+  <a href="https://codeforces.com/profile/log_K">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Flog_K" alt="Codeforces Rating Badge" />
+  </a>
+</p>
 
-## Github Stats
+<p align="center">
+  <a href="https://logk-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-My%20Portfolio-yellow?style=for-the-badge" />
+  </a>
+</p>
 
-<a href="https://github.com/K-Yoshizawa">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=K-Yoshizawa&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/K-Yoshizawa">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Yoshizawa&layout=compact&theme=dark" />
-</a>
+---
 
-<!--
-**K-Yoshizawa/K-Yoshizawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=K-Yoshizawa&theme=onedark&column=4&margin-w=10&margin-h=15" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=K-Yoshizawa&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=K-Yoshizawa&count_private=true&show_icons=true&theme=dark" />
+</p>
+
+---
+
+## 📈 Languages Bar Chart
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Yoshizawa&layout=compact&theme=dark" />
+</p>
+
