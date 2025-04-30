@@ -29,14 +29,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=K-Yoshizawa&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
