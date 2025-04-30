@@ -21,6 +21,13 @@
 
 ---
 
+<!-- Metrics ダッシュボード -->
+<p align="center">
+  <img src="https://github.com/K-Yoshizawa/metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
